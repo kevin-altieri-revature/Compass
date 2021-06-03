@@ -1,0 +1,8 @@
+:root {
+    --color-back: #78c487;
+}
+
+html {
+    background-color: var(--color-back);
+}
+
